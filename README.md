@@ -20,3 +20,16 @@ after commit it will be added
 then you have to puch to the remot repo 
 
 git push origin main : to push the changes and make it public 
+
+
+
+gir branch : to see the current branc 
+
+git checkout <branch name > : to move to another branch 
+
+git checkout -b (branch name ): to create and move to new branch 
+
+git diff branchname: to see the differences between the branches 
+
+=> we can merch changes of different branches through pull requests on github 
+
